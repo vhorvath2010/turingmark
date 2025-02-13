@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "An evaluation framework for generative AI models."
 readme = "README.md"
 license = "MIT"
+license-files = ["LICENSE"]
 authors = [
     { name = "Vincent Horvath", email = "vhorvath2010@gmail.com" },
 ]
